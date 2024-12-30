@@ -1,4 +1,4 @@
-# Deskripsi
+
 - Tools decoded by danz-Xc
 - tools ini untuk mendecoded file semacam lambda marshal zlib base dll
 - support decoded cpython-310.so
